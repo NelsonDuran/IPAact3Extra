@@ -1,0 +1,10 @@
+En la primer semana vimos acerca del codigo binario, algoritmos
+El como estos van de la mano con la carrera y como nos seran utiles.
+Como funciona y se aplica la programacion al mundo.
+
+Nunca habia experimentado con el codigo binario, ya entiendo su logica y me gusto.
+
+Los algoritmos son algo clave para la programacion, aplican para todo.
+Ya he programado en el pasado, pero me cuesta un poco mas expresar instrucciones en palabras que en codigo ya que en codigo.
+
+En esta semana solo entregue la actividad 1, se me olvido hacer el examen, no hice activdad extra.

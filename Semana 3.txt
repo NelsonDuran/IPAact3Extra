@@ -1,0 +1,10 @@
+Controladores de versiones.
+
+Siempre habia visto sobre eso, cuando yo trabaje de programador hace 10 años, la empresa no usaba eso aunque hubiese sido sumamente util.
+
+Me parecio algo enredado como se dio las instrucciones de la actividad extra, no me quedo muy claro si se hacian carpetas o si se tiraba el commit dentro de ellas.
+Ante la duda, lo hice de ambas formas
+
+Es un mundo github pero es increible la utilidad y que tan usado puedo ser.
+
+Creo que es la primera semana que hago todo a tiempo, hasta la actividad extra. Me gusto como funciona y lo que puede ofrecer.
